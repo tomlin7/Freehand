@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tldraw/tldraw": "^2.0.0-alpha.17",
     "lucide-react": "^0.344.0",
     "nanoid": "^5.0.4",
     "perfect-freehand": "^1.2.0",
